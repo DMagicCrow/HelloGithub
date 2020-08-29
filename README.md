@@ -1,2 +1,2 @@
 # HelloGithub
-Just another repository
+It starts as a whisper.
